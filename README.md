@@ -14,3 +14,5 @@ Biz bu uygulamada tanıma kısmını yapacağız.
 * İşlemlerden geçirmeden önce resmi veya videoyu siyah beyaz yaparız.
 * Sol üst kısımdan aramaya başlar ve kareyi sağa doğru ilerletir.
 
+# HAAR - LİKE Özellikler
+
