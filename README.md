@@ -10,5 +10,7 @@ aşamalar:
 
 Biz bu uygulamada tanıma kısmını yapacağız.
 
-* en iyi performans
+* En iyi performans yüz kameraya dönükken olur.
+* İşlemlerden geçirmeden önce resmi veya videoyu siyah beyaz yaparız.
+* Sol üst kısımdan aramaya başlar ve kareyi sağa doğru ilerletir.
 
