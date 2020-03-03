@@ -50,4 +50,12 @@ veya data augmentation ile yeni veriler üretebilirsiniz.(veri arttırma, veri s
 * Berilerin içersine yüz olmayan verilerde eklenir böylece her ihtimale karşı algoritmamımızı hazırlarız.
 * Büyük resimler algoritmayı yavaşlatır.
 
+![Screenshot_2020-03-03_19-27-46](https://user-images.githubusercontent.com/54184905/75807095-dc8d9d00-5d95-11ea-8f87-798ef8b2748b.png)
+
+# Adaptive Boosting (Adaboost)
+
+24x24 ressimde Haar - Like özelliklerin olma ihtimali +18.000 den fazladır. Bu kadar ihtimali hesaplamak bizi yavaşlatır
+bunun için Adaboost yöntemini kullanacağız.
+
+
 
