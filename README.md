@@ -47,7 +47,7 @@ Projemizde opencv2 Cascade lerini kullandık (hazır eğitilmiş veriler)
 * Resimde Haar - Like özellik aranır.
 * Bol veri ile beslenmiş algoritma daha iyi çalışır.
 veya data augmentation ile yeni veriler üretebilirsiniz.(veri arttırma, veri setinden sentetik veriler üretiriz.)
-* Berilerin içersine yüz olmayan verilerde eklenir böylece her ihtimale karşı algoritmamımızı hazırlarız.
+* Verilerin içersine yüz olmayan verilerde eklenir böylece her ihtimale karşı algoritmamımızı hazırlarız.
 * Büyük resimler algoritmayı yavaşlatır.
 
 ![Screenshot_2020-03-03_19-27-46](https://user-images.githubusercontent.com/54184905/75807095-dc8d9d00-5d95-11ea-8f87-798ef8b2748b.png)
