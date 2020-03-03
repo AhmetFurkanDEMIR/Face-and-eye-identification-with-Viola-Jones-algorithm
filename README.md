@@ -1,6 +1,6 @@
 # Face and eye identification with Viola-Jones algorithm
 
-Bu projemizde Viola-Jones algoritmasını kullanarak ressimlerde, videoda, kamera erişimi ile yüz ve göz tespiti yapacağız.
+Bu projemizde Viola-Jones algoritmasını kullanarak ressimlerde, videoda ve kamera erişimi ile yüz ve göz tespiti yapacağız.
 
 aşamalar:
 
