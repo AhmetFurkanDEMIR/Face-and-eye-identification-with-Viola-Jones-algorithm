@@ -21,3 +21,8 @@ Biz bu uygulamada tanıma kısmını yapacağız.
 
 # HAAR - LİKE Özellikler
 
+![Screenshot_2020-03-03_19-06-42](https://user-images.githubusercontent.com/54184905/75805935-ced71800-5d93-11ea-95aa-692151a54f73.png)
+
+* Aydınlık ve karanlık bölgelerin ayrı ayrı ortalamaları alınır.
+* Karanlık - aydınlık = ideal olarak 1 e yaklaşmalı
+
