@@ -23,6 +23,9 @@ Biz bu uygulamada tanıma kısmını yapacağız.
 
 ![Screenshot_2020-03-03_19-06-42](https://user-images.githubusercontent.com/54184905/75805935-ced71800-5d93-11ea-95aa-692151a54f73.png)
 
+![Screenshot_2020-03-03_19-10-00](https://user-images.githubusercontent.com/54184905/75806137-28d7dd80-5d94-11ea-9160-b493ae18b136.png)
+
+
 * Aydınlık ve karanlık bölgelerin ayrı ayrı ortalamaları alınır.
 * Karanlık - aydınlık = ideal olarak 1 e yaklaşmalı
 
