@@ -16,6 +16,8 @@ Biz bu uygulamada tanıma kısmını yapacağız.
 
 ![Screenshot_2020-03-03_19-00-12](https://user-images.githubusercontent.com/54184905/75805520-0c877100-5d93-11ea-8fd7-6fc31953c503.png)
 
+![Screenshot_2020-03-03_19-02-40](https://user-images.githubusercontent.com/54184905/75805818-8f103080-5d93-11ea-8258-116f36031bfb.png)
+
 
 # HAAR - LİKE Özellikler
 
