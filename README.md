@@ -57,5 +57,14 @@ veya data augmentation ile yeni veriler üretebilirsiniz.(veri arttırma, veri s
 24x24 ressimde Haar - Like özelliklerin olma ihtimali +18.000 den fazladır. Bu kadar ihtimali hesaplamak bizi yavaşlatır
 bunun için Adaboost yöntemini kullanacağız.
 
+![Screenshot_2020-03-03_19-40-11](https://user-images.githubusercontent.com/54184905/75807381-5887e500-5d96-11ea-81b4-69b851211d15.png)
+
+alfa(i) değişkenleri ağırlıklar, f(i) değişkenleri özellikler (burun, göz, ağız)
+
+Zayıf özellikler birleşerek güçlü sınıflandırıcı oluşturur. Birlikten güç doğar.
+
+
+
+
 
 
