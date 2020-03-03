@@ -35,6 +35,10 @@ Biz bu uygulamada tanıma kısmını yapacağız.
 
 Pixelleri toplarken hız kazanmak ve minimum güç harcamak amaçlı kullandığımız yöntem.
 
+
+![Screenshot_2020-03-03_19-21-02](https://user-images.githubusercontent.com/54184905/75808957-fb416300-5d98-11ea-97ab-4e1ebe582050.png)
+
+
 ![Screenshot_2020-03-03_19-23-54](https://user-images.githubusercontent.com/54184905/75806504-d6e38780-5d94-11ea-9304-b0eebd32a3e8.png)
 
 Bu örnekte 12 kareyi toplayıp işlem yapacağımıza 4 işlem ile alanı toplayabildik.
