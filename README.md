@@ -63,6 +63,27 @@ alfa(i) değişkenleri ağırlıklar, f(i) değişkenleri özellikler (burun, g�
 
 Zayıf özellikler birleşerek güçlü sınıflandırıcı oluşturur. Birlikten güç doğar.
 
+Hata yapılan resimlere daha fazla ağırlık verilir.
+
+Ne kadar çok özellik eklenirse başarı oranı o kadar artar.
+
+# Cascading
+
+Pencereyi kontrol ederiz herhangi bir özellik yoksa (burun, kaş, göz) bu pencereyi reddederiz ve pixellerimizi sağa doğru 
+
+kaydırır orada arama yaparız. en sağa gelince bir aşağı basamağa kayarız.
+
+Bu yöntem bize hız kazandırır. En önemli özellikleri ilk adımda kontrol ederiz.
+
+# Seneryo
+
+Buraya kadar teorik anlatımı okuduysanız şimdi kodları inceleyebilirsiniz.
+
+3 örnek verdim: 1. Video üzerinden yüz ve göz tespiti 2. kamera üzerinden yüz ve göz tespiti 3. ressim üzerinden yüz ve göz tespiti.
+
+Yüzleri bulduğumuz yerlere kare çizip belirttik, bulduğumuz karelerin içinde göz aradık, gözleride tekrardan kare içine aldık.
+.........
+
 
 
 
