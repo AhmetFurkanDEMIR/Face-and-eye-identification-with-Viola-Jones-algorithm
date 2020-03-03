@@ -37,6 +37,7 @@ Pixelleri toplarken hız kazanmak ve minimum güç harcamak amaçlı kullandığ
 
 ![Screenshot_2020-03-03_19-23-54](https://user-images.githubusercontent.com/54184905/75806504-d6e38780-5d94-11ea-9304-b0eebd32a3e8.png)
 
+Bu örnekte 12 kareyi toplayıp işlem yapacağımıza 4 işlem ile alanı toplayabildik.
 
 
 
