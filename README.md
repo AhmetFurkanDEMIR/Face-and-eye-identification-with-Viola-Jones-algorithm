@@ -39,5 +39,15 @@ Pixelleri toplarken hız kazanmak ve minimum güç harcamak amaçlı kullandığ
 
 Bu örnekte 12 kareyi toplayıp işlem yapacağımıza 4 işlem ile alanı toplayabildik.
 
+# Eğitim
+
+Projemizde opencv2 Cascade lerini kullandık (hazır eğitilmiş veriler)
+
+* Resim 24x24 boyutuna küçültülür
+* Resimde Haar - Like özellik aranır.
+* Bol veri ile beslenmiş algoritma daha iyi çalışır.
+veya data augmentation ile yeni veriler üretebilirsiniz.(veri arttırma, veri setinden sentetik veriler üretiriz.)
+* Berilerin içersine yüz olmayan verilerde eklenir böylece her ihtimale karşı algoritmamımızı hazırlarız.
+* Büyük resimler algoritmayı yavaşlatır.
 
 
