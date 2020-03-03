@@ -31,4 +31,9 @@ Biz bu uygulamada tanıma kısmını yapacağız.
 
 ![Screenshot_2020-03-03_19-11-17](https://user-images.githubusercontent.com/54184905/75806204-4c9b2380-5d94-11ea-822a-d762f64f126f.png)
 
+# İntegral resmi
+
+Pixelleri toplarken hız kazanmak ve minimum güç harcamak amaçlı kullandığımız yöntem.
+
+
 
